@@ -1,2 +1,2 @@
 # WMI
-WMI query and sample of WMI Filters for GPO
+WMI query and WMI Filters for GPO samples
