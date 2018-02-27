@@ -12,5 +12,5 @@ From [Win32_OperatingSystem class](https://msdn.microsoft.com/en-us/library/aa39
 >* *Work Station = 1*
 >* *Domain Controller = 2*
 >* *Server = 3*
->
->**Version:*** *Version number of the operating system*
+
+>***Version:*** *Version number of the operating system*
