@@ -1,3 +1,5 @@
 **Namespace:** root\cimv2
 
 **Query**: SELECT AddressWidth FROM Win32_Processor WHERE AddressWidth ='64'
+
+**Test:** Use WBEMTest.exe
