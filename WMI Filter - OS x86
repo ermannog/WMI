@@ -1,0 +1,3 @@
+Namespace: root\cimv2
+
+Query: Select SystemType from Win32_ComputerSystem where SystemType='X86-based PC'
