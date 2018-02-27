@@ -4,9 +4,7 @@
 
 **Test:** Use WBEMTest.exe
 
-**Information**:
-
-From [Win32_OperatingSystem class](https://msdn.microsoft.com/en-us/library/aa394239(v=vs.85).aspx):
+**Information**: [Win32_OperatingSystem class](https://msdn.microsoft.com/en-us/library/aa394239(v=vs.85).aspx)
 
 >***ProductType:*** *Additional system information*
 >* *Work Station = 1*
