@@ -1,0 +1,5 @@
+**Namespace:** root\cimv2
+
+**Query:** SELECT * FROM Win32_OperatingSystem WHERE Version LIKE '10.%' and ProductType='1'
+
+**Test:** Use WBEMTest.exe
